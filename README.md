@@ -1,0 +1,14 @@
+# qssi-user 10 QKQ1.191215.002 V12.0.2.0.QJZEUXM release-keys
+- manufacturer: xiaomi
+- platform: atoll
+- codename: joyeuse
+- flavor: qssi-user
+- release: 10
+- id: QKQ1.191215.002
+- incremental: V12.0.2.0.QJZEUXM
+- tags: release-keys
+- fingerprint: Redmi/joyeuse_eea/joyeuse:10/QKQ1.191215.002/V12.0.2.0.QJZEUXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: qssi-user-10-QKQ1.191215.002-V12.0.2.0.QJZEUXM-release-keys
+- repo: redmi_joyeuse_dump
