@@ -1,0 +1,10 @@
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+bootimg/13_dtbdump_auW~.dtb
+modem.img
+system_ext/priv-app/Settings/Settings.apk
+boot.img
+system/system/priv-app/MiBrowserGlobal/MiBrowserGlobal.apk
+system/system/app/MiuiVideoPlayer/MiuiVideoPlayer.apk
+system/system/apex/com.android.vndk.current.apex

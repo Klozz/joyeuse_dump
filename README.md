@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.200826.002 V12.5.7.0.RJZEUXM release-keys
+- manufacturer: xiaomi
+- platform: atoll
+- codename: joyeuse
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.200826.002
+- incremental: V12.5.7.0.RJZEUXM
+- tags: release-keys
+- fingerprint: Redmi/joyeuse_eea/joyeuse:11/RKQ1.200826.002/V12.5.7.0.RJZEUXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJZEUXM-release-keys
+- repo: redmi_joyeuse_dump
